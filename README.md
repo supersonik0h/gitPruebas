@@ -1,4 +1,0 @@
-gitPruebas
-==========
-
-Pruebas en Git
